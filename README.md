@@ -1,2 +1,2 @@
-# Chat_App
-A chat app built using Firebase and Flutter for android and ios 
+# Blitz_Chat
+A chatting application built using Firebase and Flutter for android and ios 
